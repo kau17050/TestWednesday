@@ -16,7 +16,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * showing the push request
  * arsh
  * ak
- making a change on git hub file
+ *making a change on git hub file
+ *checking fetch and merge
  */
 public class Student 
 {
