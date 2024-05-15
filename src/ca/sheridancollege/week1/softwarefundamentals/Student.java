@@ -18,6 +18,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * ak
  *making a change on git hub file
  *checking fetch and merge
+ fetch
  */
 public class Student 
 {
